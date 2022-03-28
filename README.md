@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JeromeTseng
+- 👋 Hi, I’m 曾兴顺 @JeromeTseng
 - 👀 I’m interested in basketball and soccer
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Java
